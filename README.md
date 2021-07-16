@@ -4,7 +4,7 @@
 
 <hr>
 
-### A lifelong learner currently learning to become a Full Stack Developer
+### A lifelong learner, currently learning to become a Full Stack Developer
 
 I'm learning with others at Microverse, where I'm collaborating with other Micronauts to pair program and collaborate on projects.
 If you have any question, or want to collaborate on a project, you can [send me an email](mailto:nnaemekasilver@gmail.com) and we can have fun!
