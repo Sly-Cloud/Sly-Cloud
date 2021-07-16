@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Sly-Cloud
-- 👀 I’m interested in software development, reading and travelling.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Yellow and Black Clean Graphic Announcements University Back to School Banner (2)](https://user-images.githubusercontent.com/69966775/125969231-3432348b-1eff-446d-b4fa-402c8b604987.gif)
 
-<!---
-Sly-Cloud/Sly-Cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<hr>
+
+### A lifelong learner is currently learnig to become a Full Stack Developer
+
+I'm learning with others at Microverse, where I'm collaborating with other Micronauts to learn pair programming and collaboration.
+If you have any question, or want to collaborate on a project, you can [send me an email](mailto:nnaemekasilver@gmail.com) and we can have fun!
+
+<hr>
+
+### Languages, Frameworks and Libs
+
+![Languages, Frameworks, and Libs](https://user-images.githubusercontent.com/69966775/125971564-51a7bacd-a3d5-4495-b43a-46f9cb28d101.png)
+
+![Sly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sly-cloud&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sly-cloud)](https://github.com/sly-cloud/github-readme-stats)
+
+
+
