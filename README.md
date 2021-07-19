@@ -11,8 +11,6 @@ If you have any question, or want to collaborate on a project, you can [send me 
 
 <hr>
 
-### Languages, Frameworks and Libs
-
 ![Languages, Frameworks, and Libs](https://user-images.githubusercontent.com/69966775/125971564-51a7bacd-a3d5-4495-b43a-46f9cb28d101.png)
 
 ![Sly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sly-cloud&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sly-cloud)](https://github.com/sly-cloud/github-readme-stats)
