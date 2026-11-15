@@ -1,19 +1,48 @@
-![Yellow and Black Clean Graphic Announcements University Back to School Banner (2)](https://user-images.githubusercontent.com/69966775/125969231-3432348b-1eff-446d-b4fa-402c8b604987.gif)
+<p>
+  <img src="https://raw.githubusercontent.com/Sly-Cloud/Sly-Cloud/main/assets/profile-banner.svg" width="100%" alt="Sylvester Adonike — full-stack developer and product builder. Ideas into products." />
+</p>
 
+<p align="center">
+  <a href="https://www.skillsnify.com">Skillsnify</a> &nbsp; / &nbsp;
+  <a href="https://afiki.uk">Afiki Marketplace</a> &nbsp; / &nbsp;
+  <a href="mailto:nnaemekasilver@gmail.com">Let's talk</a>
+</p>
 
+## Building for everyday use
 
-<hr>
+I'm **Sylvester**, a full-stack developer and product builder. I turn ideas into web experiences that help people learn, connect, and do business.
 
-### A lifelong learner, currently learning to become a Full Stack Developer
+My work brings together **web development, AI-powered features, and product design** — from the first interface to deployment.
 
-I'm learning with others at Microverse, where I'm collaborating with other Micronauts to pair program and collaborate on projects.
-If you have any question, or want to collaborate on a project, you can [send me an email](mailto:nnaemekasilver@gmail.com) and we can have fun!
+## Selected work
 
-<hr>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://www.skillsnify.com">Skillsnify ↗</a></h3>
+<p><strong>Learning, with support built in.</strong></p>
+<p>A platform for learners and creators, bringing courses, AI tutoring, communities, and digital products into one experience.</p>
+<p><sub>EDUCATION &nbsp; · &nbsp; AI &nbsp; · &nbsp; CREATOR TOOLS</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://afiki.uk">Afiki Marketplace ↗</a></h3>
+<p><strong>A taste of home, delivered.</strong></p>
+<p>A grocery marketplace connecting shoppers with independent African, Asian, and Caribbean stores, with discovery, ordering, and delivery in one place.</p>
+<p><sub>COMMERCE &nbsp; · &nbsp; MARKETPLACES &nbsp; · &nbsp; COMMUNITY</sub></p>
+</td>
+</tr>
+</table>
 
-![Languages, Frameworks, and Libs](https://user-images.githubusercontent.com/69966775/125971564-51a7bacd-a3d5-4495-b43a-46f9cb28d101.png)
+## What I work with
 
-![Sly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sly-cloud&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sly-cloud)](https://github.com/sly-cloud/github-readme-stats)
+| Focus | Tools & skills |
+| :--- | :--- |
+| Web development | JavaScript · TypeScript · HTML · CSS |
+| Platforms & publishing | WordPress · Joomla |
+| Delivery | AWS · Git · GitHub · AI-assisted development |
 
+I care about thoughtful interfaces, practical features, and getting useful products into people's hands.
 
+---
 
+**Have an idea worth building?** [Let's talk →](mailto:nnaemekasilver@gmail.com)
