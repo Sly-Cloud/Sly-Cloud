@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Sylvester Adonike — Ideas into products.</title>
+<desc id="desc">Full-stack developer and product builder. A blue cloud connects learning, commerce and community.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152E57"/><stop offset="1" stop-color="#204E85"/></linearGradient>
+  <linearGradient id="cloud" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B8DFFF"/><stop offset="1" stop-color="#6BA4FA"/></linearGradient>
+</defs>
+<rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+<path d="M0 335H1280" stroke="#83B9FF" stroke-opacity=".22"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+  <text x="60" y="68" font-size="16" font-weight="600" letter-spacing="3.4" fill="#B8DFFF">SYLVESTER ADONIKE</text>
+  <text x="56" y="161" font-size="67" font-weight="700" letter-spacing="-2.5" fill="#F4F8FF">Ideas into products.</text>
+  <text x="60" y="211" font-size="23" fill="#C9DCED">Full-stack developer &amp; product builder</text>
+  <text x="60" y="294" font-size="15" letter-spacing="1.8" fill="#8DDFD0">WEB DEVELOPMENT / AI / DIGITAL EXPERIENCES</text>
+</g>
+<g transform="translate(856 36)">
+  <circle cx="180" cy="140" r="127" fill="none" stroke="#B8DFFF" stroke-opacity=".16"/>
+  <circle cx="180" cy="140" r="100" fill="none" stroke="#B8DFFF" stroke-opacity=".13" stroke-dasharray="3 9"/>
+  <path d="M94 178c-27 0-46-19-46-44 0-24 18-43 42-45 8-32 34-54 67-54 37 0 68 29 71 65 5-2 11-3 17-3 27 0 49 22 49 49s-22 49-49 49H94Z" transform="translate(7 10)" fill="url(#cloud)"/>
+  <path d="M123 139l28 28 54-56" fill="none" stroke="#193C6C" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M95 214v28h170v-28M180 206v36" fill="none" stroke="#8DDFD0" stroke-width="2" stroke-opacity=".8"/>
+  <circle cx="95" cy="242" r="5" fill="#8DDFD0"/>
+  <circle cx="180" cy="242" r="5" fill="#8DDFD0"/>
+  <circle cx="265" cy="242" r="5" fill="#8DDFD0"/>
+  <text x="180" y="281" font-family="Consolas,monospace" font-size="13" letter-spacing="2" text-anchor="middle" fill="#C9DCED">SLY-CLOUD / BUILD &amp; SHIP</text>
+</g>
+</svg>
